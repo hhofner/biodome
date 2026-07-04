@@ -1,0 +1,1 @@
+Small posts that could also exist in something like Mastodon or Bluesky.
